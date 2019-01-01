@@ -25,11 +25,13 @@ class get_data:
         self.ref = ["https://google.com", "https://google.co.uk",
                     "https://nekopoi.com", "https://xnxx.com",
                     "https://nekopoi.lol", "https://nekopoi.care",
+                    "https://brazzers.com", "https://google.co.id",
+                    "https://nekopoi.org", # tambahin sendiri, w capek
                     "https://m.facebook.com/zvtyrdt", "https://yahoo.com"
                     "https://www.facebook.com/zvtyrdt", "https://baidu.com",
                     "https://mbasic.facebook.com/zvtyrdt",
                     "https://m.facebook.com/putriy.kaeysha",
-                    "https://www.facebook.com/putroy.kaeysha",
+                    "https://www.facebook.com/putriy.kaeysha",
                     "https://mbasic.facebook.com/putriy.kaeysha"]
 
         self.UrlList = ["https://free-proxy-list.net/", "https://www.us-proxy.org",
